@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="add_note">Not Ekle</string>
+    <string name="fragment_notes_label">Notlar</string>
+    <string name="fragment_edit_label">Not Düzenle</string>
+    <string name="title">Başlık</string>
+    <string name="description">Açıklama</string>
+    <string name="creation_date">Oluşturulma Tarihi :</string>
+    <string name="example_date">26.03.2023</string>
+    <string name="edited">Düzenlendi mi :</string>
+    <string name="no">Hayır</string>
+    <string name="yes">Evet</string>
+    <string name="note_image">Not Resmi</string>
+    <string name="enter_title">Başlık Giriniz</string>
+    <string name="enter_description">Açıklama Giriniz</string>
+    <string name="image_url">Resim URL</string>
+    <string name="enter_image_url">Resim URL Giriniz</string>
+    <string name="save">Kaydet</string>
+    <string name="delete_message">Silmek İstediğinize Emin misiniz?</string>
+    <string name="option_menu">Menü</string>
+    <string name="edit_text">Düzenle</string>
+    <string name="delete">Sil</string>
+    <string name="please_add_notes">Lütfen Not Ekleyin</string>
+    <string name="notes_title">Notlar</string>
+    <string name="edit_note_title">Not Düzenle</string>
+    <string name="new_note_title">Yeni Not</string>
+</resources>
